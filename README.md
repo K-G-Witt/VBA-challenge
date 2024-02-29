@@ -1,5 +1,4 @@
-# Project Title: 
-VBA-challenge
+# VBA-challenge
 
 ## Project Description:
 XXX
