@@ -12,7 +12,7 @@ This repository contains the following files:
 ## Usage Instructions:
 
 ### Step 1:
-Load the **Multiple_year_stock_data.xlsm**
+Load the **Multiple_year_stock_data.xlsm** dataset.
 
 ### Step 2:
 Next, click on the <XYZ> button to run the VBA-Challenge macro.
