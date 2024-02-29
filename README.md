@@ -5,10 +5,9 @@ The overall purpose of this project is to create and use a script using Visual B
    
 ## Installation and Run Instructions:
 This repository contains the following files:
-**alphabetical_testing.xlsm:** a testing dataset saved as a macro-enabled Excel workbook.
-**Multiple_year_stock_data.xlsm:** a validation dataset saved as a macro-enabled Excel workbook.
-**VBA-Challenge_Script.txt:** the VBA script used to generate all analyses saved as a text file.
-**Screenshots:** ??
+1. **alphabetical_testing.xlsm:** a testing dataset saved as a macro-enabled Excel workbook.
+2. **Multiple_year_stock_data.xlsm:** a validation dataset saved as a macro-enabled Excel workbook.
+3. **VBA-Challenge_Script.txt:** the VBA script used to generate all analyses saved as a text file.
 
 ## Usage Instructions:
 
