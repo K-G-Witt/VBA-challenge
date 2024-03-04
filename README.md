@@ -8,7 +8,7 @@ This repository contains the following files:
 1. **VBA_Challenge_Script.txt:** the VBA script used to generate all analyses saved as a text file.
 
 ## Usage Instructions:
-Executing the VBA script provided in the **VBA-Challenge_Script.txt** file will loop through all the stocks for each year in turn and will outputs the following information:
+Executing the VBA script provided in the **VBA_Challenge_Script.txt** file will loop through all the stocks for each year in turn and will outputs the following information:
 1. The ticker symbol;
 2. Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year;
 3. The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year, and;
