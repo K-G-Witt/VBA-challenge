@@ -24,9 +24,9 @@ Added functionality is also included in this VBA script to return, for each year
 
 ## Sample Output:
 Sample output is provided in the following screenshorts uploaded to this repository:
-1. **2018 Output_Screenshot.png**
-2. **2019 Output_Screenshot.png**
-3. **2020 Output_Screenshot.png**
+1. **2018_Output_Screenshot.png**
+2. **2019_Output_Screenshot.png**
+3. **2020_Output_Screenshot.png**
 
 ## Credits:
 This code was compiled and written by me for the VBA class homework in the 2024 Data Analytics Boot Camp hosted by Monash University.
