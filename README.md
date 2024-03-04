@@ -32,4 +32,4 @@ Sample output is provided in the following screenshorts uploaded to this reposit
 This code was compiled and written by me for the VBA class homework in the 2024 Data Analytics Boot Camp hosted by Monash University.
 
 ### Saving VBA Script as .txt file:
-Source: https://www.geeksforgeeks.org/how-to-make-save-and-run-a-simple-vbscript-program/ (accessed 4 March 2024).
+Following recommendations, VBA script was saved as a .txt file to ensure ease of use between different computer systems. Source: https://www.geeksforgeeks.org/how-to-make-save-and-run-a-simple-vbscript-program/ (accessed 4 March 2024).
