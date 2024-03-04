@@ -22,7 +22,7 @@ Added functionality is also included in this VBA script to return, for each year
 3. The "Greatest total volume". 
 
 
-# Sample Output:
+## Sample Output:
 Sample output is provided in the following screenshorts uploaded to this repository:
 1. **2018 Output_Screenshot.png**
 2. **2019 Output_Screenshot.png**
