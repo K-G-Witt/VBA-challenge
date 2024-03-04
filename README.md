@@ -15,7 +15,7 @@ This repository contains the following files:
 Load the **Multiple_year_stock_data.xlsm** dataset.
 
 ### Step 2:
-Next, click on the <XYZ> button to run the VBA-Challenge macro.
+Next, open the **VBA-Challenge_Script.txt** file.
 
 # Sample Output:
 Insert screenshot
