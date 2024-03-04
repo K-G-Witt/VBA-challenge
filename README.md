@@ -29,7 +29,7 @@ Sample output is provided in the following screenshorts uploaded to this reposit
 ## Credits:
 This code was compiled and written by me for the VBA class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
 
-### Defining and holding the Opening_Price var to enable calculation of the Yearly_Change var:
+### Ordering of the logic to correctly calculate the Yearly_Change var:
 During the course of this assignment, I encourtered a challenge in ensuring the script correctly identified and held the value of the Opening_Price var for each Ticker var to, in turn, correctly calculate the Yearly_Change var. After experimenting with different methods myself, I consulted Jeremy Tallant's GitHub. Consulting this resource revealed that I needed to change the order of operations to create and store values for the Open_Price and Close_Price vars within my own script in order to apply the correct logic required to solve the Yearly_Change equation, rather than attempting to solve this equation in one step. Source: https://github.com/JeremyTallant/VBA-challenge/blob/main/VBA-code.vba#L1 (accessed 2 March 2024).
 
 ### Saving VBA Script as .txt file:
