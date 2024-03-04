@@ -31,5 +31,5 @@ Sample output is provided in the following screenshorts uploaded to this reposit
 ## Credits:
 This code was compiled and written by me for the VBA class homework in the 2024 Data Analytics Boot Camp hosted by Monash University.
 
-Saving VBA Script as .txt file:
+### Saving VBA Script as .txt file:
 Source: https://www.geeksforgeeks.org/how-to-make-save-and-run-a-simple-vbscript-program/ (accessed 4 March 2024).
