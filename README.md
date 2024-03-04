@@ -32,7 +32,7 @@ Sample output is provided in the following screenshorts uploaded to this reposit
 This code was compiled and written by me for the VBA class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
 
 ### Defining and holding the Opening_Price var to enable calculation of the Yearly_Change var:
-During the course of this assignment, I encourtered a challenge in ensuring the script correctly identified and held the value of the Opening_Price var for each Ticker var to, in turn, correctly calculate the Yearly_Change var. After experimenting with different methods myself, I found the following resource from Jeremy Tallant's GitHub. Source: https://github.com/JeremyTallant/VBA-challenge/blob/main/VBA-code.vba#L1 (accessed 2 March 2024).
+During the course of this assignment, I encourtered a challenge in ensuring the script correctly identified and held the value of the Opening_Price var for each Ticker var to, in turn, correctly calculate the Yearly_Change var. After experimenting with different methods myself, I consulted Jeremy Tallant's GitHub. Consulting this resource revealed that I needed to change the order of operations within my own script in order to apply the correct logic required to solve each equation for the Yearly_Change and Percent_Change vars. Source: https://github.com/JeremyTallant/VBA-challenge/blob/main/VBA-code.vba#L1 (accessed 2 March 2024).
 
 ### Saving VBA Script as .txt file:
 Following recommendations, VBA script was saved as a .txt file to ensure compatability between different computer systems. Source: https://www.geeksforgeeks.org/how-to-make-save-and-run-a-simple-vbscript-program/ (accessed 4 March 2024).
