@@ -5,7 +5,7 @@ The overall purpose of this project is to create and use a script using Visual B
    
 ## Installation and Run Instructions:
 This repository contains the following files:
-1. **VBA_Challenge_Script.txt:** the VBA script used to generate all analyses saved as a text file.
+1. **VBA_Challenge_Script.txt:** the VBA script used to generate all analyses saved as a text file. This ensures compatability across machines, including those running open source software.
 
 ## Usage Instructions:
 Executing the VBA script provided in the **VBA_Challenge_Script.txt** file will loop through all the stocks for each year in turn and will outputs the following information:
